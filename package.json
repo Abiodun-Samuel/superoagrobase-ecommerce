@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vue/compiler-sfc": "^3.2.39",
+        "axios": "^0.27",
+        "laravel-vite-plugin": "^0.6.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "@inertiajs/inertia": "^0.11.0",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^3.1.0",
+        "bootstrap": "^5.2.1",
+        "vue": "^3.2.36",
+        "vue-loader": "^17.0.0"
+    }
+}
