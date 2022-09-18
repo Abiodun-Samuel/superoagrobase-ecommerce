@@ -4,23 +4,23 @@ Supero Agrobase Limited is a fast-rising agribusiness enterprise that leverages 
 
 ## SuperoAgrobase - Ecommerce
 
-# JavaScript frameworks
+### JavaScript frameworks
 
 -   Inertiajs
 -   Vue.js
 
-# Font scripts
+### Font scripts
 
 -   Google Font API
 
-# Web frameworks
+### Web frameworks
 
 -   Laravel (9.30)
 
-# Programming languages
+### Programming languages
 
 -   PHP (8.1.5)
 
-# UI frameworks
+### UI frameworks
 
 -   Bootstrap
